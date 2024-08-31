@@ -90,4 +90,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - **OpenCV**: For providing an open-source computer vision library.
 - **DeepFace**: For the pre-trained models and easy-to-use APIs for emotion recognition.
-```
