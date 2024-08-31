@@ -1,4 +1,4 @@
-```markdown
+
 # Facial Emotion Recognition using OpenCV and DeepFace
 
 This repository contains the implementation of a real-time facial emotion recognition system using OpenCV and DeepFace. The project is designed to recognize human emotions from facial expressions captured through a webcam in real-time. The system detects faces in the video stream, processes them, and classifies the emotions into categories like happiness, sadness, anger, and surprise.
@@ -64,7 +64,6 @@ Follow these steps to set up the project locally:
 
 The repository is organized as follows:
 
-```
 Emotion-Recognition-2/
 ├── main.py                # Main script for running the emotion recognition
 ├── requirements.txt       # List of dependencies
